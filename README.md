@@ -12,13 +12,15 @@ Scroll through the posts and mark your favourites, come back later to the "Liked
 
 ## Getting Started
 
-First, install dependencies
+1. Clone project
+
+2. install dependencies
 
 ```bash
 cd path/to/posts-app
 npm install
 ```
-Then, run the development server:
+3. run the development server:
 
 ```bash
 npm run dev
@@ -40,4 +42,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Like button 
 <br> favourites are stored in browser local storage, and are displayed in the "Liked" tab.
 - Responsive design
-<br> Cards adjust, and navigation bar moves to bottom
+<br> Cards grid becomes a column, and navigation bar moves to bottom
