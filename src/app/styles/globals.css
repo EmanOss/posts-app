@@ -1,0 +1,67 @@
+html {
+  font-family: system-ui, monospace;
+}
+header {
+  padding: 1em 0;
+  text-align: center;
+}
+.navbar {
+  font-size: 1.25em;
+}
+.post-img {
+  max-height: 20em;
+  object-fit: cover;
+}
+.posts-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 4em;
+}
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.btn-like {
+  border-radius: 50%;
+  font-size: 1.5em;
+}
+.btn-like i::before {
+  vertical-align: middle;
+}
+.favourite {
+  background: #ff959f;
+  color: #575757;
+}
+.favourite:hover {
+  background: #ffc9ce;
+  color: #8d8686;
+}
+.avatar {
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.author {
+  text-decoration: none;
+}
+.desktop-nav,
+.mobile-nav {
+  display: none;
+}
+
+/* Show DesktopNav on large screens */
+@media (min-width: 769px) {
+  .desktop-nav {
+    display: block;
+  }
+}
+
+/* Show MobileNav on small screens */
+@media (max-width: 768px) {
+  .mobile-nav {
+    display: block;
+  }
+}

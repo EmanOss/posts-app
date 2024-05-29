@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "title": "Cinnamon Rolls",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post1.jpg",
+      "altText": "Cinnamon Rolls"
+    },
+    "author": {
+      "name": "Leena",
+      "image": {
+        "url": "/images/author1.png"
+      }
+    }
+  },
+  {
+    "id": "2",
+    "title": "City Houses",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post2.jpg",
+      "altText": "City Houses"
+    },
+    "author": {
+      "name": "Ahmed_27",
+      "image": {
+        "url": "/images/author2.png"
+      }
+    }
+  },
+  {
+    "id": "3",
+    "title": "Coffee",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post3.jpg",
+      "altText": "Coffee"
+    },
+    "author": {
+      "name": "Ahmed_27",
+      "image": {
+        "url": "/images/author2.png"
+      }
+    }
+  },
+  {
+    "id": "4",
+    "title": "Al-Aqsa",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post4.jpg",
+      "altText": "Al-Aqsa"
+    },
+    "author": {
+      "name": "Mona",
+      "image": {
+        "url": "/images/author3.png"
+      }
+    }
+  },
+  {
+    "id": "5",
+    "title": "Airport",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post5.jpg",
+      "altText": "Airport"
+    },
+    "author": {
+      "name": "Mona",
+      "image": {
+        "url": "/images/author3.png"
+      }
+    }
+  },
+  {
+    "id": "6",
+    "title": "Alexandria Boats",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post6.jpg",
+      "altText": "Alexandria Boats"
+    },
+    "author": {
+      "name": "Ahmed_27",
+      "image": {
+        "url": "/images/author2.png"
+      }
+    }
+  },
+  {
+    "id": "7",
+    "title": "Libraries",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post7.jpg",
+      "altText": "Libraries"
+    },
+    "author": {
+      "name": "Leena",
+      "image": {
+        "url": "/images/author1.png"
+      }
+    }
+  },
+  {
+    "id": "8",
+    "title": "French Toast",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post8.jpg",
+      "altText": "French Toast"
+    },
+    "author": {
+      "name": "Ahmed_27",
+      "image": {
+        "url": "/images/author2.png"
+      }
+    }
+  },
+  {
+    "id": "9",
+    "title": "New Local Brand",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post9.jpg",
+      "altText": "New Local Brand"
+    },
+    "author": {
+      "name": "Mona",
+      "image": {
+        "url": "/images/author3.png"
+      }
+    }
+  },
+  {
+    "id": "10",
+    "title": "Coffee Beans",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post10.jpg",
+      "altText": "Coffee Beans"
+    },
+    "author": {
+      "name": "Ahmed_27",
+      "image": {
+        "url": "/images/author2.png"
+      }
+    }
+  },
+  {
+    "id": "11",
+    "title": "Eid Biscuits",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post11.jpg",
+      "altText": "Eid Biscuits"
+    },
+    "author": {
+      "name": "Mona",
+      "image": {
+        "url": "/images/author3.png"
+      }
+    }
+  },
+  {
+    "id": "12",
+    "title": "Coffeeshop",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post12.jpg",
+      "altText": "Coffeeshop"
+    },
+    "author": {
+      "name": "Leena",
+      "image": {
+        "url": "/images/author1.png"
+      }
+    }
+  },
+  {
+    "id": "13",
+    "title": "Books",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post13.jpg",
+      "altText": "Books"
+    },
+    "author": {
+      "name": "Ahmed_27",
+      "image": {
+        "url": "/images/author2.png"
+      }
+    }
+  },
+  {
+    "id": "14",
+    "title": "Apartments",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post14.jpg",
+      "altText": "Apartments"
+    },
+    "author": {
+      "name": "Ahmed_27",
+      "image": {
+        "url": "/images/author2.png"
+      }
+    }
+  },
+  {
+    "id": "15",
+    "title": "Waterfalls",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "image": {
+      "url": "/images/post15.jpg",
+      "altText": "Waterfalls"
+    },
+    "author": {
+      "name": "Leena",
+      "image": {
+        "url": "/images/author1.png"
+      }
+    }
+  }
+]
