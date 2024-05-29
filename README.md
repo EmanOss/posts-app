@@ -1,6 +1,15 @@
 # Posts App
 Scroll through the posts and mark your favourites, come back later to the "Liked" tab to view them again!
 
+## Screenshots
+### Home Page
+![alt text](image.png)
+### "Liked" Page
+![alt text](image-1.png)
+
+### Responsive Design (mobile screen)
+![alt text](image-3.png)
+
 ## Getting Started
 
 First, install dependencies
@@ -28,5 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [Bootstrap](https://getbootstrap.com/) was used for styling.
 
 ## Features
-- Like button <br> (favourites are stored in browser local storage, and are displayed in the "Liked" tab).
+- Like button 
+<br> favourites are stored in browser local storage, and are displayed in the "Liked" tab.
 - Responsive design
+<br> Cards adjust, and navigation bar moves to bottom
